@@ -13,21 +13,21 @@
 #### Y_mapping.ipynb : 한시간 후의 PM10 수치를 Y값으로 Mapping하는 코드
 
 # 📁[Grouped_Data]
-## 한시간 단위로 그룹핑한 데이터샘플을 저장한 폴더
+#### 한시간 단위로 그룹핑한 데이터샘플을 저장한 폴더
 
 # 📁[IQR]
-## 사분위값 범위를 시각화하여 이미지로 저장한 폴더
+#### 사분위값 범위를 시각화하여 이미지로 저장한 폴더
 
 # 📁[Merged_Data]
-## 시설 유형별 길이가 가장 긴 데이터 샘플을 병합하여 저장한 폴더
+#### 시설 유형별 길이가 가장 긴 데이터 샘플을 병합하여 저장한 폴더
 
 # 📁[Model_Training]
-## 📁[Saved_Model] : Attention_LSTM, CNN-LSTM, Dual_Attention_LSTM, LSTM 모델을 훈련하여 저장한 폴더
-## Attention_LSTM.ipynb : Attention_LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
-## CNN_LSTM.ipynb : CNN_LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
-## Dual_Attention_LSTM.ipynb : Dual_Attention_LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
-## LSTM(epoch=100).ipynb : LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
+#### 📁[Saved_Model] : Attention_LSTM, CNN-LSTM, Dual_Attention_LSTM, LSTM 모델을 훈련하여 저장한 폴더
+#### Attention_LSTM.ipynb : Attention_LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
+#### CNN_LSTM.ipynb : CNN_LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
+#### Dual_Attention_LSTM.ipynb : Dual_Attention_LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
+#### LSTM(epoch=100).ipynb : LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
 
 # 📁[RawData]
-## 원본 데이터가 저장된 폴더 
+#### 원본 데이터가 저장된 폴더 
 
