@@ -1,6 +1,6 @@
 # AirQuality-with-MetaLearning
 
-![git_개요2](https://github.com/me11ong/AirQuality-with-MetaLearning/assets/121924879/20b7eb4e-eb2e-4ac9-887c-e200cf76dae5)
+![git_개요](https://github.com/me11ong/AirQuality-with-MetaLearning/assets/121924879/fd1764c7-3aac-49b7-9ebf-890f1c65d828)
 
 # 📁[Data Preprocessing]
 #### Data_Grouping.ipynb : 기존의 1분 단위의 데이터를 1시간 단위로 그룹핑하는 코드
