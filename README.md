@@ -1,5 +1,7 @@
 # AirQuality-with-MetaLearning
 
+![대체 텍스트](./image/busan.jpg)
+
 # 📁[Data Preprocessing]
 #### Data_Grouping.ipynb : 기존의 1분 단위의 데이터를 1시간 단위로 그룹핑하는 코드
 #### Date_Check.ipynb : 시설 유형별 길이가 가장 긴 데이터 샘플을 확인하는 코드
