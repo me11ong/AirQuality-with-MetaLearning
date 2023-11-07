@@ -1,6 +1,4 @@
-# AirQuality-with-MetaLearning
-
-![대체 텍스트](./img1.png)
+![](./img1.png)
 
 # 📁[Data Preprocessing]
 #### Data_Grouping.ipynb : 기존의 1분 단위의 데이터를 1시간 단위로 그룹핑하는 코드
