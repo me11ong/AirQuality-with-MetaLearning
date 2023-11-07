@@ -1,6 +1,7 @@
 # AirQuality-with-MetaLearning
 
-#KETI 연구 과제
+![git_개요](https://github.com/me11ong/AirQuality-with-MetaLearning/assets/121924879/ef80d3ac-75ab-4ddf-b56b-06c5779cf0a6)
+
 
 # 📁[Data Preprocessing]
 #### Data_Grouping.ipynb : 기존의 1분 단위의 데이터를 1시간 단위로 그룹핑하는 코드
