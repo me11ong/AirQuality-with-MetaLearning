@@ -26,12 +26,14 @@
 * Attention_LSTM.ipynb : Attention_LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
 * CNN_LSTM.ipynb : CNN_LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
 * Dual_Attention_LSTM.ipynb : Dual_Attention_LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
-* LSTM(epoch=100).ipynb : LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
+* LSTM.ipynb : LSTM모델을 window size = 24, epoch = 100으로 훈련한 코드
 
 # 📁[RawData]
 * 원본 데이터가 저장된 폴더 
 
-# 📁[Model_Training]
-*  
+# 📁[metats]
+#### 📁[metats] : 파이프라인 구축에 필요한 함수가 저장된 폴더
+* pipeline.ipynb : metats 파이프라인을 구축하는 코드
+
 
 
