@@ -3,7 +3,7 @@
 
 
 # 📁[Data Preprocessing]
-#### Data_Grouping.ipynb : 기존의 1분 단위의 데이터를 1시간 단위로 그룹핑하는 코드
+####* Data_Grouping.ipynb : 기존의 1분 단위의 데이터를 1시간 단위로 그룹핑하는 코드
 #### Date_Check.ipynb : 시설 유형별 길이가 가장 긴 데이터 샘플을 확인하는 코드
 #### interpolation.ipynb : 결측치와 이상치 값에 대하여 Linear Interpolation을 적용하는 코드
 #### IQR_Max.ipynb : 각 항목의 이상치 기준을 산정하고자 시설별 샘플의 사분위값 범위를 계산하는 코드
