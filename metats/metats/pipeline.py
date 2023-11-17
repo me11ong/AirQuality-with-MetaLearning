@@ -219,8 +219,11 @@ class MetaLearning():
             metafeatures: the extracted meta-features (numpy array) (num_series x features_dim)
         """
         weights = None
+        
         mean_meta_features = np.mean(meta_features[np.isfinite(meta_features)])
         meta_features[np.isinf(meta_features)] = mean_meta_features
+        meta_features[np.isnan(meta_features)] = mean_meta_features
+        
         if self.method == 'selection':
             weights = self.meta_learner.predict(meta_features)
         elif self.method == 'averaging':
@@ -266,7 +269,7 @@ class MetaLearning():
                 weights: (numpy array) (num_series x number_of_base_forecasters)
                 meta_features: (numpy array) (num_series x features_dim)
         """
-        meta_features = self.generate_features(Y[:, :-fh, :], prediction=True)
+        meta_features = self.generate_features(Y, prediction=True)
 
         if self.reduction != 'none':
             meta_features = self.reduce_meta_features(meta_features, prediction=True)
