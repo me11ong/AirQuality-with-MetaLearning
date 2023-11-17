@@ -1,5 +1,5 @@
-![](./img1.png)
-![](./img2.png)
+![](./img1.jpg)
+![](./img2.jpg)
 
 
 # 📁[Data Preprocessing]
