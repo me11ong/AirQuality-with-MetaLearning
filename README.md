@@ -2,7 +2,7 @@
 ![](./img1.jpg)
 
 # [딥러닝 모델1 - LSTM]
-![](./LSTM.jpg)
+<img src="img2.jpg" width="200" height="400"/>
 
 # [딥러닝 모델2 - Attention-LSTM]
 ![](./Attention_LSTM.jpg)
