@@ -5,7 +5,7 @@
 <p align="center"><img src="LSTM.jpg" width="600" height="300"/></p>
 
 # [딥러닝 모델2 - Attention-LSTM]
-![](./Attention_LSTM.jpg)
+<p align="center"><img src="Attention_LSTM.jpg" width="845" height="702"/></p>
 
 # [딥러닝 모델3 - Dual-Attention-LSTM]
 ![](./Dual_Attention_LSTM.jpg)
