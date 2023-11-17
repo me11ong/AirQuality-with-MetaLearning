@@ -8,5 +8,5 @@
 <p align="center"><img src="Attention_LSTM.jpg" width="845" height="702"/></p>
 
 ## [딥러닝 모델3 - Dual-Attention-LSTM]
-<p align="center"><img src="Dual_Attention_LSTM.jpg" width="760" height="630"/></p>
+<p align="center"><img src="Dual_Attention_LSTM.jpg" width="570" height="473"/></p>
 
